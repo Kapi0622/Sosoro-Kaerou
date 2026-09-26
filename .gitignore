@@ -83,3 +83,5 @@ Thumbs.db
 
 # Logs
 *.log 
+# Android NDKのビルド中間生成物
+.utmp/
